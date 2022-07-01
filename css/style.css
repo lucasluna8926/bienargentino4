@@ -1,0 +1,310 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Roboto:wght@100&display=swap');
+
+
+
+body{background-color: black;
+  font-family: 'Dancing Script';
+  font-family: 'Roboto', sans-serif;}
+
+header{background-image: url(imagenes/listonargentino.gif);
+  background-size: contain;
+;height: 100px;
+width: 99.5%;
+box-shadow: inset 0 0 50px;
+margin-top: 10px
+;display: flex;
+margin-bottom: 10px;
+justify-content: center;
+align-items: center;
+border-radius: 10px;
+border: double;
+padding-top:6px;
+font-size: 35px
+}
+
+
+.audio {display:flex;
+justify-content: flex-end;}
+
+
+.titulo2{float: left;}
+
+
+
+nav{border: double;
+  background-color: #A83108;
+ ;height: 100px;
+  width: 1476px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  box-shadow: inset 0 0 50px;
+  border-radius: 10px;
+  float: left;
+}
+
+a{text-decoration: none;
+  font-size: 20px ;
+color: black}
+
+nav a:hover{color:black;
+width: 19%;
+border: 5px double;
+box-shadow: inset 0 0 10px;
+transition: 0.2s
+}
+
+.seccion2:hover {color:black;
+width: 22%;
+border: 5px double;
+box-shadow: inset 0 0 10px;
+transition: 0.2s}
+
+.FORM {width: 19.6%;
+
+;  box-shadow: inset 0 0 50px;
+border: double black;
+margin-left: 1490px;
+  border-radius: 10px;
+  background-color: #A83108;
+  text-align: center;
+  padding: 10px;
+  height: 80px;
+  ;display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.seccion1 {border:  black;
+  border-style:double;
+
+  border-radius: 10px;
+width: 15%;
+height: 40%;
+display: flex;
+align-items: center;
+justify-content: center;
+
+}
+.seccion2{border:  black;
+  border-style:double;
+text-align: center;
+  border-radius: 10px;
+  width: 17%;
+  height: 40%;
+  display: flex;
+  align-items: center;
+  justify-content: center;}
+
+.seccion3{border:  black;
+  border-radius: 10px;
+  border-style:double;
+
+  width: 15%;
+  height: 40%;
+  display: flex;
+  align-items: center;
+  justify-content: center;}
+
+.seccion4{border:  black;
+  border-radius: 10px;
+border-style:double;
+  display: flex;
+  flex-direction: ;align-items: center;
+  justify-content: center;
+margin-left: ;
+height: 50%
+;width: 50%}
+
+.seccion4:hover{color:black;
+width: 60%;
+border: 5px double;
+box-shadow: inset 0 0 10px;
+transition: 0.2s}
+
+
+  section{border: double
+;
+    background-image: url(imagenes/hola1.jpg);
+    box-shadow: inset 0 0 50px;
+    border-radius: 10px;
+
+;
+
+    background-size: cover;
+  width: 940px;
+height: 700px;
+margin-top: 10px;
+margin-right:10px;
+float: left;
+padding: 20px;
+text-align:justify;
+box-sizing: border-box;}
+
+.formulario {display: flex;
+  font-weight: bold;
+  font-size: 17px;
+  padding: 10px;
+  width: 40%;
+  margin-left: 28%;
+  margin-top: 100px;
+  height: 50%;
+  text-align: center;
+border: double black;
+border-radius: 10px;
+font-weight: bold;
+justify-content: center;
+align-items:
+center;
+flex-direction: column;
+}
+
+.titulo2:hover{font-size: 20px;}
+h3{margin-top: 1px}
+p{font-weight: bold;}
+
+.conteinermapa{border:double;
+  width: 400px;
+  height: 300px;
+  border:  double ;
+  border-radius: 10px;
+display: flex;
+margin-left: 230px;
+margin-top: 35px;}
+
+aside {border: double
+;
+  background-image:url(imagenes/fondodepantallageneral.jpg);
+  box-shadow: inset 0 0 50px;
+  border-radius: 10px;
+
+
+  background-position:left;
+  background-size: cover;
+width: 937px;
+height: 700px;
+float: left;
+padding: 20PX;
+padding-top: 40px;
+margin-top: 10px;
+box-sizing: border-box;
+
+}
+
+
+.lista1{display: flex;
+  font-weight: bold
+;
+  box-shadow: inset 0 0 10px;
+  border-radius: 10px;
+
+justify-content: flex-start;
+flex-direction: column;
+float: left;
+text-align: justify;
+border: double ;
+width: 35%;
+padding: 10px;}
+
+
+.imagen1{display: flex;
+  border: double
+;width: 500px;
+margin:auto;
+border-radius: 10px;
+  align-items: flex-start;
+justify-content: flex-end;
+}
+
+
+
+
+.lista2{text-align: justify;
+  box-shadow: inset 0 0 10px;
+  border-radius: 10px;
+  border: double;
+  font-weight: bold
+  ;
+width: 35%;
+padding: 10px;
+margin-top: 20px;
+;}
+
+
+.video1{width: 500px;
+  height: 321px;
+  border:  double black;
+  border-radius:10px
+  ;margin: 10px
+;margin-left: 41%
+;margin-top: -37%;
+;}
+
+
+
+
+footer{
+  background-color:#A83108;
+  box-shadow: inset 0 0 50px;
+  border-radius: 10px;
+  border: double;
+
+;width: 99.5%;
+height: 100px;
+float: left;
+margin-top: 10px;
+margin-bottom: 10px;
+display: flex;
+justify-content:space-around;
+}
+.footerr{display: flex;
+order: 0 -50px;}
+
+
+.footer1{margin: 10px;padding: 10px;
+border: solid black;
+text-align: center;
+display: flex;
+border: double
+;
+align-items: center;
+border-radius: 10px;
+}
+
+
+.footer2{;  border-radius: 10px;
+  border: double
+;
+margin: 10px
+;padding:10px;
+display: flex;
+align-items: center;
+}
+
+
+.redes{padding-right: 10px}
+.contactos{padding-right: 10px}
+
+
+
+.footer3{  border-radius: 10px;
+  border: double
+;  margin: 10px
+  ;padding:10px;
+  display: flex;
+  align-items: center;
+
+}
+
+.ig {padding-right: 10px}
+.wp {padding-right: 10px}
+
+footer a:hover.wp img {width:60px ; height: 60px;
+transition: 0.2s}
+:hover.ig img {width: 65px; height: 65px;
+transition: 0.2s}
+:hover.fb img {width: 55px; height: 55px;
+transition: 0.2s}
+:hover.gmail img {width: 55px; height: 40px;
+transition: 0.2s}
